@@ -1,2 +1,2 @@
 # TicTacToe
-Basic TicTacToe game written on C++.
+Basic TicTacToe game written in C
